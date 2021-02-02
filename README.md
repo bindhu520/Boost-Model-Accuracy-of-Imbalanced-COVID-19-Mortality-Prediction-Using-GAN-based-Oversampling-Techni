@@ -13,6 +13,6 @@ final.csv -> result obtained by running the model on test.xlsx
 
 Steps to reproduce results:
 
-Place the 'cvd' directory in your Google Drive.
-Connect the Colab Notebook to Google Drive.
-Run the ' Boost Model Accuracy of Imbalanced COVID-19 Mortality Prediction Using GAN-based Oversampling Technique.ipynb' file.
+1) Place the 'cvd' directory in your Google Drive.
+2) Connect the Colab Notebook to Google Drive.
+3) Run the ' Boost Model Accuracy of Imbalanced COVID-19 Mortality Prediction Using GAN-based Oversampling Technique.ipynb' file.
