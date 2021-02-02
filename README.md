@@ -6,10 +6,10 @@ The original dataset was taken from: https://www.kaggle.com/sudalairajkumar/nove
 
 cvd
 
-data.csv -> original dataset
-train.csv -> training dataset (contains data for 'death' and 'recovered' columns)
-test.xlsx -> test dataset (does not contains data for 'death' and 'recovered' columns)
-final.csv -> result obtained by running the model on test.xlsx
+1)data.csv -> original dataset
+2)train.csv -> training dataset (contains data for 'death' and 'recovered' columns)
+3)test.xlsx -> test dataset (does not contains data for 'death' and 'recovered' columns)
+4)final.csv -> result obtained by running the model on test.xlsx
 
 Steps to reproduce results:
 
