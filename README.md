@@ -15,4 +15,4 @@ Steps to reproduce results:
 
 Place the 'cvd' directory in your Google Drive.
 Connect the Colab Notebook to Google Drive.
-Run the 'Covid-19 Patient Health Prediction.ipynb' file.
+Run the ' Boost Model Accuracy of Imbalanced COVID-19 Mortality Prediction Using GAN-based Oversampling Technique.ipynb' file.
