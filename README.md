@@ -2,9 +2,7 @@
 
 A Boosted Random Forest Classification model was implemented to predict the outcome of the CoV-2 positive patients in China. Based on multiple features.
 
-The original dataset was taken from: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
-
-cvd
+The original dataset was taken from: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-datasetcvd
 
 1)data.csv -> original dataset
 2)train.csv -> training dataset (contains data for 'death' and 'recovered' columns)
